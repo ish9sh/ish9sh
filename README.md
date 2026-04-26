@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my DSA Skills <br>👯 I’m looking to collaborate on Web 3,Web Developers<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning DSA in C++
+🔭 I’m improving my DSA and Rust Skills <br>👯 I’m looking to collaborate on Rust, Web 3, Next.JS Projects<br>🤝 write now i'm focused to crack GSOC <br>🌱 I’m currently working as the freelance motion designer and video editor.
 
 
 ## 🌐 Socials:
